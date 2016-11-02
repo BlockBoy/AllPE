@@ -6,6 +6,8 @@ Before Starting:
 
 This is a FREE Minecraft Pocket Edition plugin for server software like(Pocketmine,Genisys,ClearSky,etc);
 
+If you wanna use beta features please use Beta-Features Branch.
+
 This is developed by me under MIT Licence(You can read more on Licence Document);
 
 I don't have anything if you copy my plugin code,but please credit me:)

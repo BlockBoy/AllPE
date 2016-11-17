@@ -22,3 +22,7 @@ Future Features:
 -Player Shop
 
 -Much More:)
+
+Inactivity ends on Friday.Sorry for this.Daily Updates
+
+#ALLPE :)
